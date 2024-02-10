@@ -6,12 +6,16 @@ export default function Footer() {
     <div className="footer">
       <p>
         This project was coded by
-        <a href="https://github.com/sam1246" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/sam-apps-craft"
+          target="_blank"
+          rel="noreferrer"
+        >
           Sam Wright
         </a>{" "}
         and is
         <a
-          href="https://github.com/sam1246/My-Weather-App"
+          href="https://github.com/sam-apps-craft/react-weather-app"
           target="_blank"
           rel="noreferrer"
         >
@@ -20,7 +24,7 @@ export default function Footer() {
         </a>{" "}
         and
         <a
-          href="https://spectacular-taffy-400a1b.netlify.app/"
+          href="https://sam1246-react-weather-app.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
